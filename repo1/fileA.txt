@@ -1,3 +1,5 @@
 info: File A
 
+add feature 2 before1
+
 add feature 1
